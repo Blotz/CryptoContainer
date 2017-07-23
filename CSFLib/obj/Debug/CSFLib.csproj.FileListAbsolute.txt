@@ -1,0 +1,37 @@
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFLib\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFLib\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFLib\obj\Debug\CSFLib.dll
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFLib\obj\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFLib\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFLib\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFLib\obj\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFLib\obj\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFLib\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFLib\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFLib\obj\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFLib\obj\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\obj\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\obj\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFLib\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFLib\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFLib\obj\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFLib\obj\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\obj\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\obj\Debug\CSFLib.pdb
+E:\ProjectoCSF\CSFProjectv8\CSFLib\bin\Debug\CSFLib.dll
+E:\ProjectoCSF\CSFProjectv8\CSFLib\bin\Debug\CSFLib.pdb
+E:\ProjectoCSF\CSFProjectv8\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+E:\ProjectoCSF\CSFProjectv8\CSFLib\obj\Debug\CSFLib.dll
+E:\ProjectoCSF\CSFProjectv8\CSFLib\obj\Debug\CSFLib.pdb
+E:\ProjectoCSF\CSFProjectv8\CSFLib\bin\Debug\Newtonsoft.Json.dll
+E:\ProjectoCSF\CSFProjectv8\CSFLib\bin\Debug\Newtonsoft.Json.xml

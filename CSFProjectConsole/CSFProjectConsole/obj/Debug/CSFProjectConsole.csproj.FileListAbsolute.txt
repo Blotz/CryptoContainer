@@ -1,0 +1,49 @@
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.exe
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.exe
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\obj\Debug\CSFProjectConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Release\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\bin\Release\CSFProjectConsole.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Release\CSFProjectConsole.exe
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Release\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Release\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\bin\Release\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.exe
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProjectConsole\CSFProjectConsole\obj\Release\CSFProjectConsole.pdb

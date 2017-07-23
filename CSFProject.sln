@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSFProjectGUI", "CSFProject\CSFProjectGUI.csproj", "{431A51BE-5515-4F89-B779-6065C144DD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSFLib", "CSFLib\CSFLib.csproj", "{704BEA57-FDF4-4F2A-9D72-4E205C9361EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSFProjectConsole", "CSFProjectConsole\CSFProjectConsole\CSFProjectConsole.csproj", "{DFD43151-028F-406E-AD89-60BA822004E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431A51BE-5515-4F89-B779-6065C144DD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431A51BE-5515-4F89-B779-6065C144DD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431A51BE-5515-4F89-B779-6065C144DD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431A51BE-5515-4F89-B779-6065C144DD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704BEA57-FDF4-4F2A-9D72-4E205C9361EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704BEA57-FDF4-4F2A-9D72-4E205C9361EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704BEA57-FDF4-4F2A-9D72-4E205C9361EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704BEA57-FDF4-4F2A-9D72-4E205C9361EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD43151-028F-406E-AD89-60BA822004E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD43151-028F-406E-AD89-60BA822004E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD43151-028F-406E-AD89-60BA822004E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD43151-028F-406E-AD89-60BA822004E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

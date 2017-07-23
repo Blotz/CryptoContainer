@@ -1,0 +1,111 @@
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Utilizador\documents\visual studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProject\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\CSFProject\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Blotz\Dropbox\Projecto\CSFProjectv4\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv5\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\CSFProjectv5\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\CSFProjectv8\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFProject.exe
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFProject.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.exe
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.pdb
+E:\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFProject.exe
+E:\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFProject.pdb
+E:\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFLib.dll
+E:\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\CSFLib.pdb
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProjectGUI.csprojResolveAssemblyReference.cache
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.LoadContainerWindow.resources
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.CreateContainerWindow.resources
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.MainWindow.resources
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.Properties.Resources.resources
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProjectGUI.csproj.GenerateResource.Cache
+E:\ProjectoCSF\CSFProjectv8\CSFProject\obj\Debug\CSFProject.SteganographyWindow.resources
+E:\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\Newtonsoft.Json.dll
+E:\ProjectoCSF\CSFProjectv8\CSFProject\bin\Debug\Newtonsoft.Json.xml

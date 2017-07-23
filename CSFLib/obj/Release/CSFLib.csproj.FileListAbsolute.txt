@@ -1,0 +1,8 @@
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\bin\Release\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\bin\Release\CSFLib.pdb
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\obj\Release\CSFLib.dll
+C:\Users\Blotz\Dropbox\ProjectoCSF\CSFProjectv4\CSFLib\obj\Release\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\bin\Release\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\bin\Release\CSFLib.pdb
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\obj\Release\CSFLib.dll
+C:\Users\Utilizador\Desktop\CSFProjectv7\CSFLib\obj\Release\CSFLib.pdb
