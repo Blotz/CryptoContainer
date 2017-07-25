@@ -102,10 +102,10 @@ namespace CSFProject
                 SteganographyWindow ste = new SteganographyWindow(null, 0);
                 if (ste.ShowDialog() != DialogResult.Cancel)
                 {
-                    //this.container = frm.container;
-                    //FillFileList();
-                    //label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
-                    //button3.Enabled = button4.Enabled = button5.Enabled = true;
+                    this.container = ste.container;
+                    FillFileList();
+                    label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
+                    button3.Enabled = button4.Enabled = button5.Enabled = true;
                 }
             }
             else{

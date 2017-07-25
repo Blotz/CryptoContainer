@@ -21,6 +21,7 @@ namespace CSFProject
         private String container_string = null;
         private double image_max_info = 0;
         private int container_size = 0;
+        private string container_path = null;
 
         private Bitmap image_ini = null;
         private Bitmap image_final = null;
@@ -223,7 +224,7 @@ namespace CSFProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.DialogResult = DialogResult.Cancel;
+            this.DialogResult = DialogResult.OK;
 
             this.Close();
         }
@@ -269,9 +270,11 @@ namespace CSFProject
 
             this.container = new JavaScriptSerializer().Deserialize<CSFContainer>(finalText);
 
-            System.IO.File.WriteAllText(@"C:\Users\Blotz\Desktop\WriteText.txt", finalText);
+            
 
             MessageBox.Show("DONE!");
+
+            button3.Enabled = true;
             //try
             //{
             //   // extractedText = Crypto.DecryptStringAES(extractedText, passwordTextBox.Text);
@@ -366,6 +369,19 @@ namespace CSFProject
 
         private void label3_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+
+            saveFileDialog1.ShowDialog();
+
+
+            //container = CSFContainer.Load(openFileDialog1.FileName, textBoxKey.Text);
+            
+
+            //System.IO.File.WriteAllText(container.Path, container);
 
         }
     }

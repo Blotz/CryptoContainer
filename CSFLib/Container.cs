@@ -9,7 +9,7 @@ namespace CSFLib
 {
     public class CSFContainer
     {
-        public string Path { get; protected set; }
+        public string Path { get;  set; }
         public List<CFile> Files = new List<CFile>();
 
         protected int HeaderSize { get; set; }

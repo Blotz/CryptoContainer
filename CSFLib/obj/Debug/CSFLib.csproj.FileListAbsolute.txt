@@ -35,3 +35,10 @@ E:\ProjectoCSF\CSFProjectv8\CSFLib\obj\Debug\CSFLib.dll
 E:\ProjectoCSF\CSFProjectv8\CSFLib\obj\Debug\CSFLib.pdb
 E:\ProjectoCSF\CSFProjectv8\CSFLib\bin\Debug\Newtonsoft.Json.dll
 E:\ProjectoCSF\CSFProjectv8\CSFLib\bin\Debug\Newtonsoft.Json.xml
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\CSFLib.dll
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\CSFLib.pdb
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\Newtonsoft.Json.dll
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\Newtonsoft.Json.xml
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.dll
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.pdb
