@@ -124,3 +124,4 @@ E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFProject\bin\Debug\CSFLib.dll
 E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFProject\bin\Debug\Newtonsoft.Json.dll
 E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFProject\bin\Debug\CSFLib.pdb
 E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFProject\bin\Debug\Newtonsoft.Json.xml
+E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFProject\obj\Debug\CSFProject.SaveContainerWindow.resources

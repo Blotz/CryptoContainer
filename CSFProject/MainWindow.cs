@@ -30,6 +30,8 @@ namespace CSFProject
                 FillFileList();
                 label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
                 button3.Enabled = button4.Enabled = button5.Enabled = true;
+             
+
             }
         }
 
@@ -106,20 +108,37 @@ namespace CSFProject
                     FillFileList();
                     label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
                     button3.Enabled = button4.Enabled = button5.Enabled = true;
+                    this.Text = "CSFProject - " + container.Path;
+
+               
                 }
             }
             else{
-                SteganographyWindow ste = new SteganographyWindow(this.container, (int)(new System.IO.FileInfo(container.Path).Length / 1024));
+                SteganographyWindow ste = new SteganographyWindow(ReadFileBytes(this.container.Path), (int)(new System.IO.FileInfo(container.Path).Length / 1024));
                 if (ste.ShowDialog() != DialogResult.Cancel)
                 {
                     this.container = ste.container;
                     FillFileList();
                     label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
                     button3.Enabled = button4.Enabled = button5.Enabled = true;
+
+                    this.Text = "CSFProject - " + container.Path;
+
                 }
             }
 
             
+        }
+
+
+        /// <summary>
+        /// Reads all the bytes from a file
+        /// </summary>
+        /// <param name="filename">path</param>
+        /// <returns></returns>
+        static byte[] ReadFileBytes(string filename)
+        {
+            return System.IO.File.ReadAllBytes(filename);
         }
     }
 }

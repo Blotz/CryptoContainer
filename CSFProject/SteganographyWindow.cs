@@ -18,11 +18,9 @@ namespace CSFProject
     {
 
         public CSFContainer container = null;
-        private String container_string = null;
+        public byte[] containerBytes = null;
         private double image_max_info = 0;
         private int container_size = 0;
-        private string container_path = null;
-
         private Bitmap image_ini = null;
         private Bitmap image_final = null;
         private string texto = null;
@@ -30,17 +28,13 @@ namespace CSFProject
         private List<Bitmap> files_final = new List<Bitmap>();
 
 
-        public SteganographyWindow(CSFContainer container, int size)
+        public SteganographyWindow(byte[] containerBytes, int size)
         {
-            this.container = container;
+            this.containerBytes = containerBytes;
             InitializeComponent();
             container_size = size;
             label8.Text = size.ToString() + " KBs";
             texto = System.IO.File.ReadAllText(@"C:\Users\Blotz\Desktop\mttexto.txt");
-
-
-            container_string = new JavaScriptSerializer().Serialize(container);
-
    
 
         }
@@ -133,8 +127,10 @@ namespace CSFProject
             if (container_size < this.image_max_info)
             {
 
-                string finalText = container_string;
+                string finalText =  ByteArrayToString(containerBytes);
                 string textTemp = null;
+
+
                 bool last = false;
                 int image_Totalsize = 0;
              
@@ -183,7 +179,8 @@ namespace CSFProject
 
                     }
 
-
+                    this.files.Clear();
+                    imageList1.Images.Clear();
 
 
 
@@ -264,17 +261,23 @@ namespace CSFProject
             {
                 finalText = string.Concat(finalText, text_temp);
             }
-
-
-
-
-            this.container = new JavaScriptSerializer().Deserialize<CSFContainer>(finalText);
-
             
 
             MessageBox.Show("DONE!");
 
             button3.Enabled = true;
+
+
+            this.files.Clear();
+            imageList1.Images.Clear();
+
+
+            System.IO.File.WriteAllText(@"C:\Users\Blotz\Desktop\WriteLines.txt", finalText);
+
+            this.containerBytes = GetBytes(finalText);
+
+
+
             //try
             //{
             //   // extractedText = Crypto.DecryptStringAES(extractedText, passwordTextBox.Text);
@@ -375,14 +378,57 @@ namespace CSFProject
         private void button3_Click_1(object sender, EventArgs e)
         {
 
-            saveFileDialog1.ShowDialog();
+           // saveFileDialog1.ShowDialog();
+
+            SaveContainerWindow ste = new SaveContainerWindow(this.containerBytes);
+            if (ste.ShowDialog() != DialogResult.Cancel)
+            {
+                this.container = ste.container;
+
+                this.DialogResult = DialogResult.OK;
+
+                this.Close();
+
+
+            }
+
+
 
 
             //container = CSFContainer.Load(openFileDialog1.FileName, textBoxKey.Text);
-            
+
 
             //System.IO.File.WriteAllText(container.Path, container);
 
         }
+
+
+        /// <summary>
+        /// Reads all the bytes from a file
+        /// </summary>
+        /// <param name="filename">path</param>
+        /// <returns></returns>
+        static byte[] ReadFileBytes(string filename)
+        {
+            return System.IO.File.ReadAllBytes(filename);
+        }
+
+        /// <summary>
+        /// Converts a byte array into a string
+        /// </summary>
+        /// <param name="buffer"></param>
+        /// <returns></returns>
+        static string ByteArrayToString(byte[] buffer)
+        {
+            return Convert.ToBase64String(buffer);
+        }
+
+        private static byte[] GetBytes(string str)
+        {
+        
+            return Convert.FromBase64String(str);
+        }
+
+
     }
 }

@@ -4,6 +4,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using CSFLib;
+using Newtonsoft.Json;
+using System.Web.Script.Serialization;
 
 namespace CSFLib
 {
@@ -99,7 +101,70 @@ namespace CSFLib
 
             return container;
         }
-    
+
+
+
+        public static CSFContainer LocalLoad(byte[] Localcontainer, string key ,string path, bool loadHidden = false)
+        {
+            var container = new CSFContainer(key);
+            container.hiddenContainerLoaded = loadHidden;
+
+            var buffer = Localcontainer;
+
+            container.Path = path;
+            int sizeHeader1 = BitConverter.ToInt32(new byte[4] { buffer[0], buffer[1], buffer[2], buffer[3] }, 0);
+            int sizeHeader2 = BitConverter.ToInt32(new byte[4] { buffer[4], buffer[5], buffer[6], buffer[7] }, 0);
+
+            container.HeaderSize = sizeHeader1;
+
+            // Get the header
+            var header1 = new byte[sizeHeader1];
+            for (int i = 0; i < sizeHeader1; i++)
+                header1[i] = buffer[i + 8];
+
+            var header2 = new byte[sizeHeader2];
+            for (int i = 0; i < sizeHeader2; i++)
+                header2[i] = buffer[25000 + i + 8];
+
+            container.header1 = header1;
+            container.header2 = header2;
+
+            byte[] header = null;
+            if (loadHidden)
+                header = AESThenHMAC.SimpleDecryptWithPassword(header2, container.Key);
+            else
+                header = AESThenHMAC.SimpleDecryptWithPassword(header1, container.Key);
+
+            string header_str = ByteArrayToString(header);
+
+            if (header_str == "empty")
+                return container;
+
+            var lines = header_str.Split("\n".ToCharArray());
+
+            foreach (var line in lines)
+            {
+                if (line.Trim().Length == 0)
+                    continue;
+
+                var separated = line.Split("|".ToCharArray());
+
+
+                var offset = int.Parse(separated[1]);
+                var len = int.Parse(separated[2]);
+                var data = new byte[len];
+                Array.Copy(buffer, offset, data, 0, len);
+                container.Files.Add(new CFile { Name = separated[0], Offset = offset, Length = len, data = data, Dummy = ((separated[3] == "dummy") ? true : false) });
+            }
+
+            container.nextOffset = buffer.Length;
+
+
+           
+
+            return container;
+        }
+
 
         /// <summary>
         /// Creates a new container
