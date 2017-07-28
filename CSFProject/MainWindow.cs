@@ -69,6 +69,7 @@ namespace CSFProject
             }
         }
 
+
         private void button3_Click(object sender, EventArgs e)
         {
             if (openFileDialog.ShowDialog() != DialogResult.OK)
@@ -102,29 +103,31 @@ namespace CSFProject
             {
 
                 SteganographyWindow ste = new SteganographyWindow(null, 0);
-                if (ste.ShowDialog() != DialogResult.Cancel)
-                {
-                    this.container = ste.container;
-                    FillFileList();
-                    label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
-                    button3.Enabled = button4.Enabled = button5.Enabled = true;
-                    this.Text = "CSFProject - " + container.Path;
+                ste.ShowDialog();
+                //if (ste.ShowDialog() != DialogResult.Cancel)
+                //{
+                //    //this.container = ste.container;
+                //    //FillFileList();
+                //    //label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
+                //    //button3.Enabled = button4.Enabled = button5.Enabled = true;
+                //    //this.Text = "CSFProject - " + container.Path;
 
-               
-                }
+
+                //}
             }
             else{
                 SteganographyWindow ste = new SteganographyWindow(ReadFileBytes(this.container.Path), (int)(new System.IO.FileInfo(container.Path).Length / 1024));
-                if (ste.ShowDialog() != DialogResult.Cancel)
-                {
-                    this.container = ste.container;
-                    FillFileList();
-                    label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
-                    button3.Enabled = button4.Enabled = button5.Enabled = true;
+                ste.ShowDialog();
+                //if (ste.ShowDialog() != DialogResult.Cancel)
+                //{
+                //    this.container = ste.container;
+                //    FillFileList();
+                //    label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
+                //    button3.Enabled = button4.Enabled = button5.Enabled = true;
 
-                    this.Text = "CSFProject - " + container.Path;
+                //    this.Text = "CSFProject - " + container.Path;
 
-                }
+                //}
             }
 
             

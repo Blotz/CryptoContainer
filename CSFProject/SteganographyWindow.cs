@@ -179,13 +179,15 @@ namespace CSFProject
 
                     }
 
-                    this.files.Clear();
-                    imageList1.Images.Clear();
-
+                  
 
 
 
                 }
+
+                this.files.Clear();
+                imageList1.Images.Clear();
+
 
 
 
