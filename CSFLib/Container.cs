@@ -6,6 +6,7 @@ using System.Text;
 using CSFLib;
 using Newtonsoft.Json;
 using System.Web.Script.Serialization;
+using System.Diagnostics;
 
 namespace CSFLib
 {
@@ -30,6 +31,8 @@ namespace CSFLib
         private byte[] header2 = new byte[0];
         private bool hiddenContainerLoaded = false;
 
+        private FileStream FS;
+  
         public CSFContainer() { }
 
         public CSFContainer(string key, bool addRandomBuffers = false)
@@ -110,6 +113,8 @@ namespace CSFLib
             container.hiddenContainerLoaded = loadHidden;
 
             var buffer = Localcontainer;
+
+        
 
             container.Path = path;
             int sizeHeader1 = BitConverter.ToInt32(new byte[4] { buffer[0], buffer[1], buffer[2], buffer[3] }, 0);
@@ -282,6 +287,19 @@ namespace CSFLib
             var datab = AESThenHMAC.SimpleDecryptWithPassword(this.Files[index].data, this.Key);
             File.WriteAllBytes(destination, datab);
         }
+
+        public void ExtractFileTemp(int index, string destination)
+        {
+            var datab = AESThenHMAC.SimpleDecryptWithPassword(this.Files[index].data, this.Key);
+    
+            FS = new FileStream(destination, FileMode.Create, FileAccess.ReadWrite, FileShare.ReadWrite, 4096, FileOptions.DeleteOnClose);
+            
+                FS.Write(datab, 0, datab.Length);
+                Process.Start(destination);
+            
+
+        }
+
 
         /// <summary>
         /// Removes a file from the container at the specified index.

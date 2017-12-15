@@ -7,6 +7,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace CSFProject
 {
@@ -46,7 +47,7 @@ namespace CSFProject
                 this.Text = "CSFProject - " + container.Path;
 
                 label1.Text = "Total Size: " + (new System.IO.FileInfo(container.Path).Length / 1024).ToString() + " Kb";
-                button3.Enabled = button4.Enabled = button5.Enabled = true;
+                button3.Enabled = button4.Enabled = button5.Enabled = button7.Enabled = true;
             }
         }
 
@@ -83,8 +84,14 @@ namespace CSFProject
 
         private void button4_Click(object sender, EventArgs e)
         {
-            saveFileDialog.ShowDialog();
-            container.ExtractFile(indices[listViewFiles.SelectedIndices[0]], saveFileDialog.FileName);
+            try {
+                saveFileDialog.ShowDialog();
+                container.ExtractFile(indices[listViewFiles.SelectedIndices[0]], saveFileDialog.FileName);
+            } catch (Exception exc)
+                {
+                System.Windows.Forms.MessageBox.Show("Please select a file to extract");
+            }
+            
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -142,6 +149,27 @@ namespace CSFProject
         static byte[] ReadFileBytes(string filename)
         {
             return System.IO.File.ReadAllBytes(filename);
+        }
+
+        private void listViewFiles_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+            try
+            {
+                string fileName = System.IO.Directory.GetCurrentDirectory() + @"\" + listViewFiles.SelectedItems[0].Text;
+                container.ExtractFileTemp(indices[listViewFiles.SelectedIndices[0]], fileName);
+            }
+            catch (Exception exc)
+            {
+                    System.Windows.Forms.MessageBox.Show("Please select a file to open");
+            }
+
+
         }
     }
 }

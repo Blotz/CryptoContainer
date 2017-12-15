@@ -42,3 +42,11 @@ E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\Newtonsoft.Json.xml
 E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
 E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.dll
 E:\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.pdb
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.dll
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.pdb
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\CSFLib.dll
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\CSFLib.pdb
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\Newtonsoft.Json.dll
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\bin\Debug\Newtonsoft.Json.xml
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.csprojResolveAssemblyReference.cache
+D:\Programacao\ProjectoCSF\CSFProjectv8\CryptoContainer\CSFLib\obj\Debug\CSFLib.csproj.CoreCompileInputs.cache
